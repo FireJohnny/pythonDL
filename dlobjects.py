@@ -1,7 +1,9 @@
 # Module containing the basic and composite objects which make up DL formulae.
 # One wishing to write a parser will need to map their domain to these constructs.
 # Tyler Adams
+# tyler.r.adams@gmail.com
 # April 2013
+
 import copy
 
 

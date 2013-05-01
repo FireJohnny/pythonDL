@@ -1,5 +1,9 @@
 # Module which provides functions for answering a variety of queries, given
 # a module that provides an implementation of the subsumedby function
+# Tyler Adams
+# tyler.r.adams@gmail.com
+# April 2013
+
 import dlobjects as dl
 import copy
 

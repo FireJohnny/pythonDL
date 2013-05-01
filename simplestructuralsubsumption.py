@@ -1,5 +1,6 @@
 # Module containing the implementation of the simple structural subsumption algorithm
 # Tyler Adams
+# tyler.r.adams@gmail.com
 # April 2013
 
 import dlobjects as dl

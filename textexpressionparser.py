@@ -1,5 +1,6 @@
 # Module implementing a text-based parser for DL Expressions
 # Tyler Adams
+# tyler.r.adams@gmail.com
 # April 2013
 
 import dlobjects as dl
