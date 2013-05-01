@@ -32,5 +32,9 @@ An example usage is given in demoscript.py
 In general import the modules, parse text or other data, and perform queries
 on the parsed data
 
-
+To get a feel for what's available, try executing something similar to demoscript.py interactively:
+open the python interpreter, import the modules, and experiment with the available functions. 
+If instead you wish to see some pre-written tests, the simplestructuralsubsumption.py and 
+textexpressionparser.py files can be run as standalone scripts, and will demonstrate some
+examples.
 
